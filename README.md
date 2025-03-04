@@ -1,4 +1,4 @@
-# Ed.info Education - Sistema de Registros Escolar
+# Ed.info Education - Sistema de Registro Escolar
 
 O **Ed.info Education** é um sistema de registros desenvolvido para escolas, com o objetivo de armazenar e gerenciar dados de pessoas físicas (pais, mães e responsáveis pelos alunos), pessoas jurídicas, professores, fornecedores e alunos em um banco de dados centralizado.
 

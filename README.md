@@ -26,7 +26,7 @@ Aqui são preenchidas as informações para cadastro das pessoas jurídicas, ten
 
 ### Página 4: Cadastro - Professores 👩‍🏫
 
-Aqui são preenchidas as informações para o cadastro de professores, tendo inclusive a cobranca do Registro Admissional (RA).
+Aqui são preenchidas as informações para o cadastro de professores, tendo inclusive a cobrança do Registro Admissional (RA).
 
 ![](https://i.imgur.com/LK3B7n3.jpeg)
 

@@ -72,5 +72,5 @@ Abaixo, está o diagrama UML que representa a estrutura e as relações entre as
 Aqui estão os participantes que contribuíram para este projeto:
 - [João Guilherme](https://github.com/joaopontesdados)
 - [Marcos Silva](https://github.com/Marcosrtb) 
-- [Ruan](https://github.com/RuanSenac)
+- [Ruan Rodrigues maciel da cruz ](https://github.com/RuanSenac)
 - [Ramon Alves](https://github.com/RamonVeirone)

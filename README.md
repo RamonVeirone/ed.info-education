@@ -9,6 +9,7 @@ O sistema é dividido em diferentes áreas e funcionalidades, cada uma projetada
 ### Página 1: Introdução ao Cadastro ⭐
 
 Esta página serve como uma introdução ao processo de cadastro no sistema, esta página é o ponto de partida para novos usuários ou administradores que desejam registrar entradas no sistema.
+Além de apresentar o sistema, esta página fornece orientações iniciais sobre como proceder com o cadastro, garantindo que os usuários compreendam os próximos passos. A interface é intuitiva e projetada para facilitar a navegação, permitindo que administradores, professores, responsáveis e alunos realizem o registro de forma rápida e segura.
 
 ![](https://i.imgur.com/eneTtfb.jpeg)
 

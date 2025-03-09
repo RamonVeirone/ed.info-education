@@ -65,3 +65,10 @@ A Área do Fornecedor permite que empresas cadastradas gerenciem a entrega de ma
 Abaixo, está o diagrama UML que representa a estrutura e as relações entre as classes e componentes do sistema Ed.info Education.
 
 ![](https://i.imgur.com/Q4rO8pP.jpeg)
+
+
+## Participantes
+Aqui estão os participantes que contribuíram para este projeto:
+- [João Guilherme](https://github.com/joaopontesdados)
+- [Marcos Silva](https://github.com/Marcosrtb) 
+- [Ruan](https://github.com/RuanSenac)

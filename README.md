@@ -75,3 +75,5 @@ Marcos Junior Silva
 - [Marcos Silva](https://github.com/Marcosrtb) 
 - [Ruan Rodrigues maciel da cruz ](https://github.com/RuanSenac)
 - [Ramon Alves](https://github.com/RamonVeirone)
+- [Lucas Andrade Espinoza]
+(https://github.com/LucasEspinozaBR)

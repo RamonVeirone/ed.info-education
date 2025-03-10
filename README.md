@@ -70,9 +70,9 @@ Abaixo, está o diagrama UML que representa a estrutura e as relações entre as
 
 ## Participantes
 Aqui estão os participantes que contribuíram para este projeto:
-Marcos Junior Silva
+
 - [João Guilherme](https://github.com/joaopontesdados)
-- [Marcos Silva](https://github.com/Marcosrtb) 
+- [Marcos Junior Silva](https://github.com/Marcosrtb) 
 - [Ruan Rodrigues maciel da cruz ](https://github.com/RuanSenac)
-- [Ramon Alves](https://github.com/RamonVeirone)
+- [Ramon Alves da Silva](https://github.com/RamonVeirone)
 - [Lucas Andrade Espinoza](https://github.com/LucasEspinozaBR)
